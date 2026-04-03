@@ -1,0 +1,12 @@
+/.idea
+/.venv
+/2.spec
+/build
+/dist
+/main.py
+/map.py
+/map2.py
+/map3.py
+/map4.py
+/pack_to_exe.py
+/__pycache__

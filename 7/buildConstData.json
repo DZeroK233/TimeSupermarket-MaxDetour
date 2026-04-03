@@ -1,0 +1,249 @@
+{
+    "version": 1,
+    "nBackGroundID": 20006,
+    "nDoorID": 40003,
+    "mark": "type: 1地图大小 2室内未开放 3室外 101室内地砖区域 201室内高台区域 301:入口 302:出口 303:收银台 401:扩建图标",
+    "data": [
+        {
+        "nIndex" : 1,
+        "nUnlockPraiseLevel" : 1,
+        "CommandList" : [
+                { "type": 1, "Params": [0, 0, 100, 100], "mark": "地图大小"},
+                { "type": 2, "Params": [30, 30, 30, 30], "mark": "室内未开放" },
+                { "type": 4, "Params": [30, 59, 30, 1], "mark": "墙-右下"},
+                { "type": 5, "Params": [59, 30, 1, 30], "mark": "墙-左下"},
+                { "type": 101, "Params": [52, 52, 8, 8], "mark": "地砖"},
+                { "type": 301, "Params": [60, 54, 59, 54], "mark": "入口(室外-室内)" },
+                { "type": 302, "Params": [54, 60, 54, 59], "mark": "出口(室外-室内)" },
+                { "type": 303, "Params": [54, 58], "mark": "收费处" }
+            ]
+        },
+        {
+            "nIndex": 2,
+            "nUnlockPraiseLevel": 2,
+            "CommandList": [
+                {"type": 101, "Params": [51, 52, 1, 8], "mark": "地砖"},
+                {"type": 101, "Params": [50, 52, 1, 8], "mark": "地砖"},
+                {"type": 101, "Params": [49, 52, 1, 8], "mark": "地砖"},
+                {"type": 101, "Params": [48, 52, 1, 8], "mark": "地砖"},
+                {"type": 101, "Params": [47, 52, 1, 8], "mark": "地砖"},
+                {"type": 101, "Params": [46, 52, 1, 8], "mark": "地砖"},
+                {"type": 101, "Params": [45, 52, 1, 8], "mark": "地砖"},
+                {"type": 401, "Params": [48, 55], "mark": "扩建图标"}
+            ]
+        }
+        ,{
+            "nIndex": 3,
+            "nUnlockPraiseLevel": 3,
+            "CommandList": [
+                {"type": 101, "Params": [59, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [58, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [57, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [56, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [55, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [54, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [53, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [52, 45, 1, 7], "mark": "地砖"},
+                {"type": 401, "Params": [55, 48], "mark": "扩建图标"}
+            ]
+        }
+        ,{
+            "nIndex": 4,
+            "nUnlockPraiseLevel": 4,
+            "CommandList": [
+                {"type": 101, "Params": [51, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [50, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [49, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [48, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [47, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [46, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [45, 45, 1, 7], "mark": "地砖"},
+                {"type": 401, "Params": [47, 47], "mark": "扩建图标"}
+            ]
+        }
+        ,{
+            "nIndex": 5,
+            "nUnlockPraiseLevel": 5,
+            "CommandList": [
+                {"type": 101, "Params": [44, 52, 1, 8], "mark": "地砖"},
+                {"type": 101, "Params": [43, 52, 1, 8], "mark": "地砖"},
+                {"type": 101, "Params": [42, 52, 1, 8], "mark": "地砖"},
+                {"type": 101, "Params": [41, 52, 1, 8], "mark": "地砖"},
+                {"type": 101, "Params": [40, 52, 1, 8], "mark": "地砖"},
+                {"type": 101, "Params": [39, 52, 1, 8], "mark": "地砖"},
+                {"type": 101, "Params": [38, 52, 1, 8], "mark": "地砖"},
+                {"type": 101, "Params": [37, 52, 1, 8], "mark": "地砖"},
+                {"type": 101, "Params": [36, 52, 1, 8], "mark": "地砖"},
+                {"type": 101, "Params": [35, 52, 1, 8], "mark": "地砖"},
+                {"type": 401, "Params": [39, 55], "mark": "扩建图标"}
+            ]
+        }
+        ,{
+            "nIndex": 6,
+            "nUnlockPraiseLevel": 6,
+            "CommandList": [
+                {"type": 101, "Params": [44, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [43, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [42, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [41, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [40, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [39, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [38, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [37, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [36, 45, 1, 7], "mark": "地砖"},
+                {"type": 101, "Params": [35, 45, 1, 7], "mark": "地砖"},
+                {"type": 401, "Params": [39, 47], "mark": "扩建图标"}
+            ]
+        }
+        ,{
+            "nIndex": 7,
+            "nUnlockPraiseLevel": 7,
+            "CommandList": [
+                {"type": 101, "Params": [59, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [58, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [57, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [56, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [55, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [54, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [53, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [52, 35, 1, 10], "mark": "地砖"},
+                {"type": 401, "Params": [55, 39], "mark": "扩建图标"}
+            ]
+        }
+        ,{
+            "nIndex": 8,
+            "nUnlockPraiseLevel": 8,
+            "CommandList": [
+                {"type": 101, "Params": [51, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [50, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [49, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [48, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [47, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [46, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [45, 35, 1, 10], "mark": "地砖"},
+                {"type": 401, "Params": [48, 39], "mark": "扩建图标"}
+            ]
+        }
+        ,{
+            "nIndex": 9,
+            "nUnlockPraiseLevel": 9,
+            "CommandList": [
+                {"type": 101, "Params": [44, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [43, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [42, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [41, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [40, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [39, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [38, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [37, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [36, 35, 1, 10], "mark": "地砖"},
+                {"type": 101, "Params": [35, 35, 1, 10], "mark": "地砖"},
+                {"type": 401, "Params": [39, 39], "mark": "扩建图标"}
+            ]
+        }
+        ,{
+            "nIndex": 10,
+            "nUnlockPraiseLevel": 10,
+            "CommandList": [
+                {"type": 101, "Params": [59, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [58, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [57, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [56, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [55, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [54, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [53, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [52, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [51, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [50, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [49, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [48, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [47, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [46, 32, 1, 3], "mark": "地砖"},
+                {"type": 401, "Params": [52, 33], "mark": "扩建图标"}
+            ]
+        }
+        ,{
+            "nIndex": 11,
+            "nUnlockPraiseLevel": 11,
+            "CommandList": [
+                {"type": 101, "Params": [34, 46, 1, 14], "mark": "地砖"},
+                {"type": 101, "Params": [33, 46, 1, 14], "mark": "地砖"},
+                {"type": 101, "Params": [32, 46, 1, 14], "mark": "地砖"},
+                {"type": 401, "Params": [33, 52], "mark": "扩建图标"}
+            ]
+        }
+        ,{
+            "nIndex": 12,
+            "nUnlockPraiseLevel": 12,
+            "CommandList": [
+                {"type": 101, "Params": [45, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [44, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [43, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [42, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [41, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [40, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [39, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [38, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [37, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [36, 32, 1, 3], "mark": "地砖"},
+                {"type": 101, "Params": [35, 32, 1, 3], "mark": "地砖"},
+                {"type": 401, "Params": [40, 33], "mark": "扩建图标"}
+            ]
+        }
+        ,{
+            "nIndex": 13,
+            "nUnlockPraiseLevel": 13,
+            "CommandList": [
+                {"type": 101, "Params": [34, 32, 1, 14], "mark": "地砖"},
+                {"type": 101, "Params": [33, 32, 1, 14], "mark": "地砖"},
+                {"type": 101, "Params": [32, 32, 1, 14], "mark": "地砖"},
+                {"type": 401, "Params": [33, 39], "mark": "扩建图标"}
+            ]
+        }
+    ],
+    "highPlatformArr": [
+        {"x": 59, "y": 59},
+        {"x": 59, "y": 58},
+        {"x": 59, "y": 44},
+        {"x": 59, "y": 43},
+        {"x": 59, "y": 42},
+        {"x": 58, "y": 59},
+        {"x": 58, "y": 58},
+        {"x": 58, "y": 44},
+        {"x": 58, "y": 43},
+        {"x": 58, "y": 42},
+        {"x": 53, "y": 53},
+        {"x": 53, "y": 52},
+        {"x": 53, "y": 51},
+        {"x": 53, "y": 50},
+        {"x": 52, "y": 53},
+        {"x": 52, "y": 52},
+        {"x": 52, "y": 51},
+        {"x": 52, "y": 50},
+        {"x": 51, "y": 53},
+        {"x": 51, "y": 52},
+        {"x": 51, "y": 51},
+        {"x": 51, "y": 50},
+        {"x": 50, "y": 53},
+        {"x": 50, "y": 52},
+        {"x": 50, "y": 51},
+        {"x": 50, "y": 50},
+        {"x": 37, "y": 37},
+        {"x": 37, "y": 36},
+        {"x": 37, "y": 35},
+        {"x": 36, "y": 53},
+        {"x": 36, "y": 52},
+        {"x": 36, "y": 51},
+        {"x": 36, "y": 50},
+        {"x": 36, "y": 37},
+        {"x": 36, "y": 36},
+        {"x": 36, "y": 35},
+        {"x": 35, "y": 53},
+        {"x": 35, "y": 52},
+        {"x": 35, "y": 51},
+        {"x": 35, "y": 50},
+        {"x": 35, "y": 37},
+        {"x": 35, "y": 36},
+        {"x": 35, "y": 35}
+    ]
+}
